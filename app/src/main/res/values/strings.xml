@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">crud</string>
-    <string name="Save">save</string>
-    <string name="Users">userlist</string>
+    <string name="Save">Save</string>
+    <string name="Users">User List</string>
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
 </resources>
